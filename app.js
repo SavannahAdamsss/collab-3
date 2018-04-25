@@ -7,3 +7,13 @@ var students = [{
     age: 31
   }
 ];
+
+var instructors = [{
+    name: 'KC',
+    age: 34
+  },
+  {
+    name: 'Kyle',
+    age: 62
+  }
+];

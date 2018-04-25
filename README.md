@@ -15,3 +15,6 @@ You should create a new directory. Move at least one file into that directory:
     - Savannah created new directory titled app and moved about.html into it.
 
 
+  You should remove a file other than index.html.
+
+    - Adam removed about.html file

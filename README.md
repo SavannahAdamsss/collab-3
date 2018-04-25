@@ -27,3 +27,7 @@ You should edit five CSS properties:
 
 You should edit an HTML file. Add a paragraph about something you like.
   - Adam added a paragraph to index.html.
+
+Slack your partner. You should both create an array of objects. Each object should have a name and age:
+    - Savannah added an array of objects that each have a name and age.
+    - Adam added an array of objects that each have a name and age.

@@ -15,6 +15,12 @@ You should create a new directory. Move at least one file into that directory:
     - Savannah created new directory titled app and moved about.html into it.
 
 
-  You should remove a file other than index.html.
-
+You should remove a file other than index.html.
     - Adam removed about.html file
+
+You should edit five CSS properties:
+    - Savannah changed grid-gap: 10px; to grid-gap: 20px;
+               changed margin-left: 1rem; to margin-left: 2rem;
+               changed color: orange; to color: red;
+               changed color: darkgrey; to color: black;
+               change font-size: 10px; to font-size: 20px;

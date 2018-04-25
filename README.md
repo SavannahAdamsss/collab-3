@@ -16,7 +16,7 @@ You should create a new directory. Move at least one file into that directory:
 
 
 You should remove a file other than index.html.
-    - Adam removed about.html file
+    - Adam removed about.html file.
 
 You should edit five CSS properties:
     - Savannah changed grid-gap: 10px; to grid-gap: 20px;
@@ -24,3 +24,6 @@ You should edit five CSS properties:
                changed color: orange; to color: red;
                changed color: darkgrey; to color: black;
                change font-size: 10px; to font-size: 20px;
+
+You should edit an HTML file. Add a paragraph about something you like.
+  - Adam added a paragraph to index.html.
